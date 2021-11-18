@@ -38,9 +38,9 @@ const TestimonialsCarousel = () => {
         </div>
       </>
       <>
-        <img src={avatar1} alt="Ourfali" />
+        <img src={avatar1} alt="Alhafid" />
         <div className="myCarousel">
-          <h3>Abdullah Ourfalli</h3>
+          <h3>Amer Alhafid</h3>
           <p>I can't imageine my career without adili ❤️ </p>
         </div>
       </>

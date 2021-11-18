@@ -34,15 +34,6 @@ const Services = () => {
               <p>Ihre potenziellen Kunden können Ihre Dienstleistungen oder Ihr Produkt auf Facebook besser sehen</p>
             </div>
           </div>
-                    {/* - */}
-          <div className="col-lg-3 col-md-6 col-sm-6">
-            <div className="box">
-              <div className="circle"><FontAwesomeIcon className="icon" icon={faInstagram} size="2x" /></div>
-
-              <h3>Instagram Ads</h3>
-              <p>Ihr Service und Ihre Produkte werden oben in der Google-Suche angezeigt</p>.
-              </div>
-          </div>
           {/* - */}
           <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
