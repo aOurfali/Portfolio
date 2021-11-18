@@ -13,7 +13,7 @@ const Services = () => {
             <div className="box">
               <div className="circle"><FontAwesomeIcon className="icon" icon={faDesktop} size="2x" /></div>
               <h3>WebShop Design</h3>
-              <p>I approach each project individually and always focus on the result.</p>
+              <p>Ich gehe jedes Projekt individuell an und fokussiere mich immer auf das Ergebnis.</p>
             </div>
           </div>
           {/* - */}
@@ -22,7 +22,7 @@ const Services = () => {
               <div className="circle"><FontAwesomeIcon className="icon" icon={faFileCode} size="2x" /></div>
 
               <h3>Web Development</h3>
-              <p>Your website will be build with React JS or php Technologies.</p>
+              <p>Ihre Website wird mit React JS- oder PHP-Technologien erstellt.</p>
             </div>
           </div>
           {/* - */}
@@ -31,7 +31,7 @@ const Services = () => {
               <div className="circle"><FontAwesomeIcon className="icon" icon={faFacebookF} size="2x" /></div>
 
               <h3>Facebook Ads </h3>
-              <p>Your potential clients well see your services or product on Facebook</p>
+              <p>Ihre potenziellen Kunden können Ihre Dienstleistungen oder Ihr Produkt auf Facebook besser sehen</p>
             </div>
           </div>
                     {/* - */}
@@ -40,7 +40,7 @@ const Services = () => {
               <div className="circle"><FontAwesomeIcon className="icon" icon={faInstagram} size="2x" /></div>
 
               <h3>Instagram Ads</h3>
-              <p>Your service or product will appear at the top of the Google search</p>.
+              <p>Ihr Service und Ihre Produkte werden oben in der Google-Suche angezeigt</p>.
               </div>
           </div>
           {/* - */}
@@ -49,7 +49,7 @@ const Services = () => {
               <div className="circle"><FontAwesomeIcon className="icon" icon={faGoogle} size="2x" /></div>
 
               <h3>Google Ads</h3>
-              <p>Your service or product will appear at the top of the Google search</p>.
+              <p>Ihr Service und Ihre Produkte werden oben in der Google-Suche angezeigt</p>.
               </div>
           </div>
         </div>
