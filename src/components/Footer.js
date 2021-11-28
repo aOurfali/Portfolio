@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="d-flex">
-              <p>Business center, Wambeler Str. 39, 44145 Dortmund</p>
+              <p>Wambeler Str. 39, 44145 Dortmund</p>
             </div>
             <div className="d-flex">
               <a href="tel:0160 8744 619">(+49) 160 8744 619</a>
